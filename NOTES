@@ -1,0 +1,9 @@
+Start with a good use case
+
+example.rb demonstrates a possible use case (and also leaves room for other
+questions to be answered)
+
+simplify data (remove header / footer / some extraneous fields)
+reformat data to be human readable
+
+criticize / revise
